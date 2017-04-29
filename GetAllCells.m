@@ -2,7 +2,7 @@
 %  Project       : Mitosis-Detection-Breast-Cancer                        %
 %  File          : GetAllCells.m                                          %
 %  Description   : Export the cell sub-images and Coordinates             %
-%  Author        : Monahopoulos Konstantinos                              %
+%  Author        : Monachopoulos Konstantinos                              %
 %-------------------------------------------------------------------------%
 
 function [test_cells test_cells_coor]=GetAllCells(UnnormalizedImage)

@@ -2,7 +2,7 @@
 %  Project       : Mitosis-Detection-Breast-C                             %
 %  File          : GetCell.m                                              %
 %  Description   : Export the cell sub-image                              %
-%  Author        : Monahopoulos Konstantinos                              %
+%  Author        : Monachopoulos Konstantinos                              %
 %-------------------------------------------------------------------------%
 
 function [mitotic_cell]=GetCell(UnnormalizedImage,MitoticCoordinates)

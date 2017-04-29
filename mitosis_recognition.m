@@ -2,7 +2,7 @@
 %  Project       : Mitosis-Detection-Breast-Cancer                        %
 %  File          : mitosis_recognition.m                                  %
 %  Description   : Detect Mitotic Cells in Histological Images            %
-%  Author        : Monahopoulos Konstantinos                              %
+%  Author        : Monachopoulos Konstantinos                              %
 %-------------------------------------------------------------------------%
 
 clc;clear all;close all;

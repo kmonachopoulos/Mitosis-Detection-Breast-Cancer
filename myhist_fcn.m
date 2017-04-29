@@ -2,7 +2,7 @@
 %  Project       : Mitosis-Detection-Breast-Cancer                        %
 %  File          : my_hist_fcn.m                                          %
 %  Description   : Export of image histogram                              %
-%  Author        : Monahopoulos Konstantinos                              %
+%  Author        : Monachopoulos Konstantinos                              %
 %-------------------------------------------------------------------------%
 
 function [ hist ] = myhist_fcn(myimage )

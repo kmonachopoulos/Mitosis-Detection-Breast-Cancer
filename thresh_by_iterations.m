@@ -2,7 +2,7 @@
 %  Project       : Mitosis-Detection-Breast-Cancer                        %
 %  File          : threshold_of iterations_vs_otsu.m                      %
 %  Description   : threshold by iterations                                %
-%  Author        : Monahopoulos Konstantinos                              %
+%  Author        : Monachopoulos Konstantinos                              %
 %-------------------------------------------------------------------------%
 
 function [ Output_Image ] = thresh_by_iterations( Input_Image )

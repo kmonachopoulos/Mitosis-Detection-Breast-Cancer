@@ -2,7 +2,7 @@
 %  Project       : Mitosis-Detection-Breast-Cancer                        %
 %  File          : mysumhist_fcn.m                                        %
 %  Description   : Export of image cumulative histogram                   %
-%  Author        : Monahopoulos Konstantinos                              %
+%  Author        : Monachopoulos Konstantinos                              %
 %-------------------------------------------------------------------------%
 
 function [ cumulative_hist ] = mysumhist_fcn( hist )
